@@ -1,0 +1,11 @@
+[submodule "pythia"]
+	path = pythia
+	url = git@github.com:orally-network/pythia.git
+	branch = develop
+[submodule "sybil"]
+	path = sybil
+	url = git@github.com:orally-network/sybil.git
+	branch = develop
+[submodule "treasurer"]
+	path = treasurer
+	url = git@github.com:orally-network/treasurer.git
